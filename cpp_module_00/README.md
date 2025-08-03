@@ -20,7 +20,7 @@ This project is the first in the series of C++ modules in the 42 School Core Cur
 * [🧪 Testing](#-testing)
 * [📜 Constraints](#-constraints)
 * [📌 Key Concepts](#-key-concepts)
-* [📜 License & Credits](#-license--credits)
+* [📜 License](#-license)
 
 ---
 
