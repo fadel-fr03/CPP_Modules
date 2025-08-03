@@ -7,6 +7,25 @@ This module dives deeper into fundamental C++ concepts like memory allocation, r
 
 ---
 
+## 📑 Table of Contents
+
+- [📁 Project Structure](#-project-structure)
+- [📚 Exercise Overview](#-exercise-overview)
+  - [🧠 ex00 - Stack vs Heap (Zombie)](#-ex00---stack-vs-heap-zombie)
+  - [🧟‍♂️ ex01 - Zombie Horde](#-ex01---zombie-horde)
+  - [🧭 ex02 - Pointers and References](#-ex02---pointers-and-references)
+  - [🧱 ex03 - HumanA and HumanB](#-ex03---humana-and-humanb)
+  - [📝 ex04 - Replace in File](#-ex04---replace-in-file)
+  - [📣 ex05 - Harl 10](#-ex05---harl-10)
+  - [🚨 ex06 - Harl 20 (Switch-case Behavior)](#-ex06---harl-20-switch-case-behavior)
+- [🧪 How to Build and Run](#-how-to-build-and-run)
+- [✅ Key Concepts Reinforced](#-key-concepts-reinforced)
+- [📌 Notes](#-notes)
+- [🎓 42 School Constraints Respected](#-42-school-constraints-respected)
+- [📬 License](#-license)
+
+---
+
 ## 📁 Project Structure
 
 ```

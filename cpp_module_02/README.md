@@ -9,6 +9,26 @@ All exercises revolve around building a reusable `Fixed` class to represent fixe
 
 ---
 
+## 📑 Table of Contents
+
+* [📂 Project Structure](#-project-structure)
+* [📘 Exercise Breakdown](#-exercise-breakdown)
+
+  * [🧱 ex00 - My First Class in Orthodox Canonical Form](#-ex00---my-first-class-in-orthodox-canonical-form)
+  * [💡 ex01 - Towards a More Useful Fixed Class](#-ex01---towards-a-more-useful-fixed-class)
+  * [➕ ex02 - Operator Overloading & Static Min/Max](#-ex02---operator-overloading--static-minmax)
+  * [📐 ex03 - BSP (Binary Space Partitioning)](#-ex03---bsp-binary-space-partitioning)
+* [📚 Concepts Covered](#-concepts-covered)
+* [🧪 Compilation & Execution](#-compilation--execution)
+* [🧼 Code Standards](#-code-standards)
+* [📜 License](#-license)
+
+---
+
+## 📂 Project Structure
+
+---
+
 ## 📂 Project Structure
 
 ```
