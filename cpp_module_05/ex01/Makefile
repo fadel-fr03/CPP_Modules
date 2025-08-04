@@ -13,7 +13,7 @@ RM	= rm -rf
 #	Default Target	#
 all:	$(NAME)
 
-#	Creating megaphone executable	#
+#	Creating signForm executable	#
 $(NAME):	$(OBJS)
 	$(CC) $(CFLAGS) $(OBJS) -o $(NAME)
 

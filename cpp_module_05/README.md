@@ -200,7 +200,7 @@ Each exercise includes its own Makefile. Example:
 ```bash
 cd ex03
 make
-./bureaucracy
+./internWork
 ```
 
 Ensure you test:

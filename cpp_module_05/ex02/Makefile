@@ -14,7 +14,7 @@ RM	= rm -rf
 #	Default Target	#
 all:	$(NAME)
 
-#	Creating megaphone executable	#
+#	Creating executeForm executable	#
 $(NAME):	$(OBJS)
 	$(CC) $(CFLAGS) $(OBJS) -o $(NAME)
 

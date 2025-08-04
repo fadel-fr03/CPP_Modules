@@ -13,7 +13,7 @@ RM	= rm -rf
 #	Default Target	#
 all:	$(NAME)
 
-#	Creating megaphone executable	#
+#	Creating bureaucrat executable	#
 $(NAME):	$(OBJS)
 	$(CC) $(CFLAGS) $(OBJS) -o $(NAME)
 
