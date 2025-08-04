@@ -1,5 +1,8 @@
 # C++ Module 06 - Casting and Runtime Type Identification
 
+![Language](https://img.shields.io/badge/language-C++98-blue)
+![Status](https://img.shields.io/badge/progress-Completed-brightgreen)
+
 This module dives into type casting, serialization, and dynamic type identification in C++98. You’ll learn how to safely convert between data types, store and restore raw memory representations, and identify derived types at runtime. These exercises focus on low-level operations and RTTI (Run-Time Type Information), solidifying your understanding of type systems and memory representation in object-oriented C++.
 
 ---

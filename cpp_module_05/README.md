@@ -1,6 +1,7 @@
 # C++ Module 05 - Repetition and Exceptions
 
-&#x20;
+![Language](https://img.shields.io/badge/language-C++98-blue)
+![Status](https://img.shields.io/badge/progress-Completed-brightgreen)
 
 This module builds upon object-oriented programming concepts by introducing exception handling and polymorphism in the context of a bureaucracy simulation. It involves designing classes that model bureaucrats, forms, and interactions between them using polymorphism and robust error handling through exceptions.
 
